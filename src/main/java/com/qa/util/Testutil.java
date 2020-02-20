@@ -10,4 +10,8 @@ public class Testutil {
 	 public void testoutput() {
 		 System.out.println("testoutput"); 
 	 }
+	 public void testput() {
+		 System.out.println("testput"); 
+	 
+}
 }

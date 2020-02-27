@@ -2,7 +2,7 @@ package com.qa.tests;
 
 public class LoginTest {
   
-  public void testinput() {
+  public void test() {
 		 System.out.println("Hai");
 	 }
 
